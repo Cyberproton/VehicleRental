@@ -1,0 +1,6 @@
+C:\Users\Cyberproton\source\repos\CarRentalService\VehicleRentalService\bin\Debug\VehicleRentalService.dll
+C:\Users\Cyberproton\source\repos\CarRentalService\VehicleRentalService\bin\Debug\VehicleRentalService.pdb
+C:\Users\Cyberproton\source\repos\CarRentalService\VehicleRentalService\obj\Debug\VehicleRentalService.csprojAssemblyReference.cache
+C:\Users\Cyberproton\source\repos\CarRentalService\VehicleRentalService\obj\Debug\VehicleRentalService.csproj.CoreCompileInputs.cache
+C:\Users\Cyberproton\source\repos\CarRentalService\VehicleRentalService\obj\Debug\VehicleRentalService.dll
+C:\Users\Cyberproton\source\repos\CarRentalService\VehicleRentalService\obj\Debug\VehicleRentalService.pdb
